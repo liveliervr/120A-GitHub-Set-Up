@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4656060862215667588
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2399235964982700907, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_text
+      value: Ear Pain
+      objectReference: {fileID: 0}
+    - target: {fileID: 2399235966124309626, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.032
+      objectReference: {fileID: 0}
+    - target: {fileID: 3585472854259490394, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_text
+      value: 'Baby Choking
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3762112279862491105, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_text
+      value: 'Baby not Breathing
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3762112280869347568, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.096
+      objectReference: {fileID: 0}
+    - target: {fileID: 4597310038014714230, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4597310038014714230, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4597310038014714230, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4597310038014714230, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4597310038014714230, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: changeCam
+      objectReference: {fileID: 0}
+    - target: {fileID: 4597310038014714230, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: XRRigMove2, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4597310038014714230, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577810, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_Name
+      value: ListMenuBase_132x168mm
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577810, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 12.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 12.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 12.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 26.634
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517851954577811, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750517852833321554, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_text
+      value: Training Options
+      objectReference: {fileID: 0}
+    - target: {fileID: 7117368596874659939, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7117368596874659939, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7117368596874659939, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7117368596874659939, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7117368596874659939, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: changeCam
+      objectReference: {fileID: 0}
+    - target: {fileID: 7117368596874659939, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: XRRigMove2, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7117368596874659939, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7583113130924760820, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_text
+      value: Sore Throat
+      objectReference: {fileID: 0}
+    - target: {fileID: 7583113131930569189, guid: d54d4850a15598940b56df0456b98b18, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.064
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d54d4850a15598940b56df0456b98b18, type: 3}
